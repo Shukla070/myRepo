@@ -1,5 +1,9 @@
 #include <iostream>
 
+void quicksort(){
+    //
+}
+
 using namespace std;
 
 int main(){
