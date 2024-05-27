@@ -10,6 +10,15 @@ void bubblesort(){
     //
 }
 
+
+void merge(){
+    //
+}
+
+void insertionsort(){
+    //
+}
+
 int main(){
     cout<<"Hello World"<<endl;
     cout<<"BYE!!"<<endl;
